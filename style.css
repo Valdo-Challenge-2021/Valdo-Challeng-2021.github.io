@@ -107,6 +107,7 @@ thead {
       background-color: #404346;
       border-color: #404346;
       color: #f9fafb !important;
+      z-index:-1
 }
 
 .table th:first-child > .btn {
@@ -119,9 +120,4 @@ thead {
     background-color: #f9fafb !important;
     border-color: #f9fafb !important;
     color: #404346 !important;
-}
-
-input {
-    margin-top: 10px;
-    margin-bottom: 10px;
 }
