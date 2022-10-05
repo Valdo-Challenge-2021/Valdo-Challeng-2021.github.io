@@ -120,3 +120,8 @@ thead {
     border-color: #f9fafb !important;
     color: #404346 !important;
 }
+
+input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
